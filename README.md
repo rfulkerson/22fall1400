@@ -1,4 +1,4 @@
-# CIST 1400, Fall 2022
+# CIST 1400-002, Fall 2022
 
 This code is used in CIST 1400, "Introduction to Computer Science I", at the [University of Nebraska at Omaha](http://unomaha.edu).
 
