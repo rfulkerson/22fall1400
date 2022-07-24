@@ -18,6 +18,6 @@ Guidance for students who may not be familiar with a GitHub repository:
 
 1. You can browse to the directory of the lecture you would like to see the code for.
 2. Clicking on the file (usually labeled as `Q#.py`, where `#` is the number of the question) will bring up the code from the question that you can then copy and paste into your IDE of choice to play around with.
-3. Alternatively, you can use the green `CODE` button at the top of the [main repo page](https://github.com/rfulkerson/22spring1400) to download a ZIP file of the entire directory structure.
+3. Alternatively, you can use the green `CODE` button at the top of the [main repo page](https://github.com/rfulkerson/22fall1400) to download a ZIP file of the entire directory structure.
 
 For students who may be familiar with GitHub repositories: have at it! :)
