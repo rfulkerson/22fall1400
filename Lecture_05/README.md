@@ -2,7 +2,7 @@
 
 ## In-class Errata / Discussion
 
-Today we talked about a lot of interesting arithmetic things. Math is huge in programming, but not intimdatingly so. If you remove the input (keyboard, microphone, video) and output (screen, audio, video), programs basically reduce down to doing arithmetic and making decisions. So we spend a lot of time on arithmetic and shoring up our understanding of those features.
+Today we talked about a lot of interesting arithmetic things. Math is huge in programming, but not intimidatingly so. If you remove the input (keyboard, microphone, video) and output (screen, audio, video), programs basically reduce down to doing arithmetic and making decisions. So we spend a lot of time on arithmetic and shoring up our understanding of those features.
 
 In addition to the basic stuff talked about, here are some of the highlights that I noted as we were discussing things:
 
@@ -16,11 +16,11 @@ In addition to the basic stuff talked about, here are some of the highlights tha
 
 ----
 
-I added a few activities/worked examples that we would have covered in class into the [activty.py](activity.py) file. The examples include converting temperatures, calculating the area of a cone, and calculating Body Surface Area, which is used in medical prescription calculations.
+I added a few activities/worked examples that we would have covered in class into the [activity.py](activity.py) file. The examples include converting temperatures, calculating the area of a cone, and calculating Body Surface Area, which is used in medical prescription calculations.
 
 ----
 
-We talked about how to debug syntax errors that zyBooks or Thonny may throw your way. You might get an error that looks like this when you run code in either platform:
+We talked about how to debug syntax errors that zyBooks or Thonny may generate. You might get an error that looks like this when you run code in either platform:
 
 ```unix
 Traceback (most recent call last):
@@ -30,7 +30,7 @@ Traceback (most recent call last):
 SyntaxError: invalid syntax
 ```
 
-This means taht by the time Python got to this point in your code, it was expecting something else.  In this instance, if you look at the line of code listed, you can see that the line is missing a right-hand side to the addition operator (`a +` plus what?
+This means that by the time Python got to this point in your code, it was expecting something else.  In this instance, if you look at the line of code listed, you can see that the line is missing a right-hand side to the addition operator (`a +` plus what?
 
 Sometimes the line listed will be perfectly fine, but if there's a `SyntaxError`, it implies the error is on a previous line.
 
