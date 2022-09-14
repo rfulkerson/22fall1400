@@ -134,7 +134,7 @@ elif where == "Des Moines":
    print("You're headed to lovely Des Moines on I-80 East!")
 ```
 
-**With so many different approaches to coding and so many tools in our programming toolboxes, it's tough to cover all possible options, but hopefully these examples give you something to think about.
+**With so many different approaches to coding and so many tools in our programming toolboxes, it's tough to cover all possible options, but hopefully these examples give you something to think about.**
 
 Our goal, ultimately, is to write the most accurate code with zero errors and hopefully a modest amount of efficiency and felxibilty so that the code runs quickly and can be updated easily to, for example, add more options (such as going to Fargo) with consistent code.
 
