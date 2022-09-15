@@ -118,7 +118,7 @@ else:
    print("You're headed to lovely Des Moines on I-80 East!")
 ```
 
-Now the code works fine for Kansas City and Des Moines, but if you say you're doing to Denver, your directions will tell you that you're going to Denver on I-80W and then turn around and tell you that you need to take I-80E and head to Des Moines.  This is because you have two separate tests to make. So, now you're being instructed to do two separate things all because you didn't use an `elif` for the second test for `Kansas City`.
+Now the code works fine for Kansas City and Des Moines, but if you say you're going to Denver, your directions will tell you that you're going to Denver on I-80W and then turn around and tell you that you need to take I-80E and head to Des Moines.  This is because you have two separate tests to make. So, now you're being instructed to do two separate things all because you didn't use an `elif` for the second test for `Kansas City`.
 
 Of course, there are ways to fix this, such as turning the final `else` into an `elif` with a conditional test.  While the code below will work and is more explicit and complete, it still has to make at least two tests regardless of the input.  If that's not clear, copy the code into Thonny and step through it to watch how there will always be at least two tests performed even if you enter `Denver` as your destination.
 
@@ -134,9 +134,9 @@ elif where == "Des Moines":
    print("You're headed to lovely Des Moines on I-80 East!")
 ```
 
-**With so many different approaches to coding and so many tools in our programming toolboxes, it's tough to cover all possible options, but hopefully these examples give you something to think about.**
+**With so many different approaches to coding and so many tools in our programming toolboxes, it's tough to cover all possible options, but hopefully these examples provide you with some things to think about.**
 
-Our goal, ultimately, is to write the most accurate code with zero errors and hopefully a modest amount of efficiency and felxibilty so that the code runs quickly and can be updated easily to, for example, add more options (such as going to Fargo) with consistent code.
+Our goal, ultimately, is to write the most accurate code with zero errors and hopefully a modest amount of efficiency and flexibilty so that the code runs quickly and can be updated easily to, for example, add more options (such as going to Fargo) with consistent code.
 
 ## The topics for this lecture were:
 
