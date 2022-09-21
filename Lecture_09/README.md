@@ -40,6 +40,8 @@ while not done:
     x = input("Enter 'stop' to quit: ")
     if x == "stop":
         done = True
+    else:
+        print(f"You entered {x} and I would do something useful with it here.")
 ```
 
 Basically, using `not` to simply negate the value of a Boolean variable's value is a good use case for `not`.  It's not the *only* good use case, but it's the most prevalent that we might see this semester.
