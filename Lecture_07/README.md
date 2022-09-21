@@ -1,4 +1,4 @@
-# Lecture 07, February 15th, 2022
+# Lecture 07, September 14th, 2022
 
 ## In-class Errata / Discussion
 
