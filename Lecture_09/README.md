@@ -2,8 +2,6 @@
 
 ## In-class Errata / Additional Discussion
 
-Good class discussions today.  The only thing we didn't cover was conditionals with multiple logical operators (such as `x == 5 and y < 6 or y > 10`).
-
 We started with writing two examples that utilized cascading `if`/`else` structures in [highlights.py](highlights.py):
 
 * We wrote code to test a year whether it was a leap year or not, which required the use of logical operators to handle the two separate cases:
