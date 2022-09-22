@@ -8,6 +8,8 @@
 
 # Unless it's your birthday; on that day, your speed can be 5 higher in all
 #   cases.
+#
+# Adapted from https://codingbat.com/prob/p195669
 
 speed = int(input("How fast were you going? "))
 bday = input("Is it your birthday (y/n)? ")

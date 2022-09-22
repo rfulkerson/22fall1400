@@ -21,6 +21,8 @@ else:
 #   case there is no upper bound on the number of cupcakes. 
 # Input the number of cupcakes and if it's the weekend (y/n) and then
 #   determine if it's a successful squirrel party with appropriate output.
+#
+# Adapted from https://codingbat.com/prob/p137202
 
 cupcakes = int(input("How many cupcakes? "))
 weekend = input("Weekend (y/n)? ")
