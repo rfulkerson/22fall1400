@@ -99,6 +99,11 @@ Then in [Q4.py](Q4.py) and [Q5.py](Q5.py) we looked at sentinel-controlled loops
 
 In Q5, the order of statements inside the loop were reversed, which means that if you enter the loop with a valid value, you immediately throw it away because you read a new value. Then you process that value without testing it for validity and _then_ end the loop and test again.
      
+## Music played at the beginning of class
+
+* [The Moladu](https://www.youtube.com/watch?v=l6kqu2mk-Kw) by Smetana, performed by Gimnazija Kranj Symphony Orchestra
+* [Song Up In Her Head](https://www.youtube.com/watch?v=kdM89_88cdM) by Sarah Jarosz
+
 ## The topics for this lecture were:
 
 * Loop body
