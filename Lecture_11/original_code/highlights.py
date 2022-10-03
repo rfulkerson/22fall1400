@@ -1,49 +1,63 @@
 # highlights from lecture 11
 
-father = "John"
-mother = "Ella"
-daughter = "Analise"
-son = "Peter"
+# Prompt the user to enter a number
+# (assume it is greater than or equal to 5)
+# and then output all numbers from 1 to the
+# entered number, inclusive.
 
-daughter = "Ana"
+top = int(input("Enter top value: "))
+x = 1    # loop control variable (LCV) AND it's initial value
 
-student1 = "John"
-student2 = "Ana"
-student3 = "Frank"
+while x <= top:   # test for the final value
+    print(x)
+    x += 1
+    
+print("Final",x)
+    
 
-family = ["John", "Ella", "Analise", "Peter"]
-print(family[0])
-print(father)
-print(f"{family[0]} married {family[1]} and their children are {family[2]} and {family[3]}.")
 
-random_data = ["anything", 3.14, "of", 34, "any type"]
+# Prompt the user to enter a number
+# (assume it is greater than or equal to 5)
+# and then output all multiples of 5 from 1
+# to the entered number, inclusive.
 
-family.append("Zena")
-family.append("Ginny")
-family.append("Gabby")
+top = int(input("Enter top value: "))
+x = 1    # loop control variable (LCV) AND it's initial value
 
-print(family.index("Peter"))
-print(family)
-family.pop()
-family.pop()
-store = family.pop()
-print(store)
-print(family)
+while x <= top:   # test for the final value
+    if x % 5 == 0:
+        print(x)
+    x += 1
+    
+print("Final",x)
 
-temperatures = [70, 72, 68, 68, 50, 60]
-print(temperatures)
-print(max(temperatures))
-print(min(temperatures))
-print(sum(temperatures))
-print(temperatures.index(max(temperatures)))
 
-#print(max(random_data))
+top = int(input("Enter top value: "))
+x = 5    # loop control variable (LCV) AND it's initial value
 
-print(max(family))
-print(min(family))
+while x <= top:   # test for the final value
+    print(x)
+    x += 5
+    
+print("Final",x)
 
-family_tuple = ("John", "Ella", "Analise", "Peter")
-print(family_tuple[0])
-print(f"{family_tuple[0]} married {family_tuple[1]} and their children are {family_tuple[2]} and {family_tuple[3]}.")
+    
 
-family_tuple[0] = "Jack"
+# Prompt the user to enter a number
+# (validate that it is greater than or equal to 5 first)
+# and then output all numbers from 1 to the
+# entered number, inclusive.
+
+top = int(input("Enter top value: "))
+
+while top < 5:
+    top = int(input("Enter top value: "))
+
+
+x = 1    # loop control variable (LCV) AND it's initial value
+
+while x <= top:   # test for the final value
+    print(x)
+    x += 1
+    
+print("Final",x)
