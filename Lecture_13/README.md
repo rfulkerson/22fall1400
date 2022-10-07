@@ -39,7 +39,7 @@ We didn't get to [highlights2.py](highlights2.py), where we would have written a
 
 * [Something in the Orange](https://www.youtube.com/watch?v=lA8F9sIhGdg) by Zach Bryan
 * [The Lion The Beast The Beat](https://www.youtube.com/watch?v=Ov8uT8DTvlw) by Grace Potter and the Nocturnals
-* [What Do You Heart in These Sounds](https://www.youtube.com/watch?v=LwrQXI4_mgo) by Dar Williams
+* [What Do You Hear in These Sounds](https://www.youtube.com/watch?v=LwrQXI4_mgo) by Dar Williams
 * [Annabelle Lee](https://www.youtube.com/watch?v=O-SLSZ-9748) by Sarah Jarosz
 
 
