@@ -12,7 +12,7 @@ If we modified the length of the source string, we found that we had to modify t
 
 ----
 
-During out Peer Instruction questions [Q1.py](Q1.py), [Q2.py](Q2.py), and [Q3.py](Q3.py), we looked at the identity (`is`) and membership (`in`) operators and discussed how the identity operator only evaluates to true if the lefthand and righthand operators are the same object in memory.  This is usually reserved for small numeric values and short strings. Usually, for beginning programming students, what is usually intended is an equality test when `is` is used instead. Here's a really nice explanation of `is` vs `==`: [https://www.youtube.com/watch?v=CZ8bZPqtwU0](https://www.youtube.com/watch?v=CZ8bZPqtwU0)
+During our Peer Instruction questions [Q1.py](Q1.py), [Q2.py](Q2.py), and [Q3.py](Q3.py), we looked at the identity (`is`) and membership (`in`) operators and discussed how the identity operator only evaluates to true if the lefthand and righthand operators are the same object in memory.  This is usually reserved for small numeric values and short strings. Usually, for beginning programming students, what is usually intended is an equality test when `is` is used instead. Here's a really nice explanation of `is` vs `==`: [https://www.youtube.com/watch?v=CZ8bZPqtwU0](https://www.youtube.com/watch?v=CZ8bZPqtwU0)
 
 ----
 
