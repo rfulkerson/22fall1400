@@ -12,7 +12,7 @@ I added some time code to the program we wrote to test how long it took to test 
 
 We then applied this to having a password and trying to guess the password.
 
-We set up four nested loops and then five, all using a source string of characters to test.  In the version that is found here, [password_equals.py](password_equals.py), the source string has 53 characters (lowercase letters, uppercase letters, and an exclamation point). This amounts to $53^5$ possibile combinations which is 418,195,493 passwords.  Nearly three times as many combinations as what we were trying with 3 nested loops for the previous example.
+We set up four nested loops and then five, all using a source string of characters to test.  In the version that is found here, [password_equals.py](passwordequals.py), the source string has 53 characters (lowercase letters, uppercase letters, and an exclamation point). This amounts to $53^5$ possibile combinations which is 418,195,493 passwords.  Nearly three times as many combinations as what we were trying with 3 nested loops for the previous example.
 
 When run, it takes only 25.62 seconds on my machine to find `JeFf!`, the password, and a total of only 75.35 seconds to test all 415 million possibilities.
 
