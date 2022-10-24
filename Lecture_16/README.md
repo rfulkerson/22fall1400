@@ -38,6 +38,17 @@ Lastly, we looked at [Q6.py](Q6.py), which used `enumerate()` to give us positio
 	* Concept of unpacking
 	* Usage of `enumerate()`
 
+## Music played at the beginning of class
+
+* [Theme from Jussasic Park](https://www.youtube.com/watch?v=D8zlUUrFK-M) by John Williams
+* [James Bond Theme](https://www.youtube.com/watch?v=U9FzgsF2T-s) by David Arnold
+* [Prologue from Harry Potter](https://www.youtube.com/watch?v=UuPb1J_RCJM) by John Williams
+* [Main Titles (From "Beetlejuice")](https://www.youtube.com/watch?v=1XVCQPPAx8Y) by Danny Elfman
+* [M.I.B. Main Theme](https://www.youtube.com/watch?v=4YDx3LAsb3o) by Danny Elfman
+* [Theme from Ant-Man](https://www.youtube.com/watch?v=O_5NwVy8L5M) by Christophe Beck
+
+
+
 ## The highlighted topics for this lecture were
 
 * Developing code incrementally:
