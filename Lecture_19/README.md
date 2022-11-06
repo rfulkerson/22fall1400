@@ -1,4 +1,4 @@
-# Lecture 19, March 31st, 2022
+# Lecture 19, November 1st, 2022
 
 ## In-class Errata / Additional Discussion
 
