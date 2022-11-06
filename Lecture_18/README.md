@@ -51,6 +51,13 @@ if __name__ == '__main__':
 
 In this instance (and the example prior to this), anything that you've typically been writing for your programs ends up being dumped into the `main()` function and then you have the supporting functions elsewhere, such as `print_price(item, cost)`.
 
+
+## Music played at the beginning of class
+
+* [Walk the Walk](https://www.youtube.com/watch?v=8UDFrXXdKtU) by Poe
+* [The Killing Moon](https://www.youtube.com/watch?v=LWz0JC7afNQ) by Echo & The Bunnymen
+* [Generals and Majors](https://www.youtube.com/watch?v=p-JeQduJ0f8) by XTC
+
 ## The topics for this lecture were:
 
 * Print functions

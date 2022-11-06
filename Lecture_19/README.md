@@ -57,6 +57,14 @@ We wrapped up talking about namespaces, namely local, global, and built-in, with
 
 Overall, great discussions in class today!
 
+
+## Music played at the beginning of class
+
+* [Songs from the Wood](https://www.youtube.com/watch?v=z_BtPxZEwiQ) by Jethro Tull
+* [Summer's End](https://www.youtube.com/watch?v=xPNkxL3CTPU) by Foo Fighters
+* [Left of Center](https://www.youtube.com/watch?v=9YIBmZjONtA) by Suzanne Vega
+* [You've Got a Friend in Me](https://www.youtube.com/watch?v=gRBIMTK73wY) by Randy Newman
+
 ## The topics for this lecture were:
 
 * Functions with branches

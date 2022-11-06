@@ -12,6 +12,15 @@ Using keyword arguments, we noticed that the order that you call the argments do
 
 The last thing we observed is that if you have a mix of parameters in a function that have default values and don't have default values, the parameters that have default values _must_ be the last parameters in the list.  In other words, any required parameters need to be listed first in the list.
 
+
+## Music played at the beginning of class
+
+* [I and Love and You](https://www.youtube.com/watch?v=T0eSpAgqrWo) by The Avett Brothers
+* [Doctor Who Theme](https://www.youtube.com/watch?v=2qmFzUUnsJQ) by Murray Gold
+* [The Doctor's Theme](https://www.youtube.com/watch?v=WGDeV4lPADE) by Murray Gold
+* [Rose's Theme](https://www.youtube.com/watch?v=Fqogz-g0Jg4) by Murray Gold
+* [Blue in Green](https://www.youtube.com/watch?v=TLDflhhdPCg) by Miles Davis
+
 ## The topics for this lecture were:
 
 * Function arguments and mutability
