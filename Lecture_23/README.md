@@ -28,6 +28,13 @@ The one major difference between thinking about this type of data being stored i
 
 The other major topic for this lecture centered around list slicing and all of the various ways you can process lists by accessing sublists.
 
+
+## Music played at the beginning of class
+
+* [The Afternoon: Forever Afternoon (Tuesday?): Time to Get Away](https://www.youtube.com/watch?v=jmMPBQ4kYKk) by The Moody Blues
+* [The Garden](https://www.youtube.com/watch?v=EsBNzf5JlZA) by Rush
+
+
 ## The topics for this lecture were:
 
 * Iterating over a list
