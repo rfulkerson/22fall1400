@@ -21,6 +21,13 @@ Recently, for fun (because I'm a computer scientist :), I've coded up the Game o
 
 Regarding the rest of the code for the day, there were questions that addressed the aforementioned `list.sort()` vs. `sorted(list)` differences, as well as some questions about deleting items from a dictionary.
 
+## Music played at the beginning of class
+
+* [Volcano Girls](https://www.youtube.com/watch?v=qyVSKydUxKk) by Veruca Salt
+* [Lovely to See You](https://www.youtube.com/watch?v=I8pvOnv4-OQ) by The Moody Blues
+* [This Is Not The End](https://www.youtube.com/watch?v=AJitq0sLukI) by Lola Marsh
+* [All My Love](https://www.youtube.com/watch?v=P1FUhu5l_Ws) by Led Zeppelin
+
 ## The topics for this lecture were:
 
 * Sorting Lists
