@@ -1,4 +1,4 @@
-# highlights from lecture 28
+# highlights from lecture 27
 filename = 'data.txt'
 
 # file = open(filename)
@@ -37,8 +37,8 @@ filename = 'data.txt'
 # outfile.write("Another line!")
 # outfile.close()
 
-# import csv
-# with open('courses.csv', 'r') as myfile:
-#     csv_reader = csv.reader(myfile)
-#     for row in csv_reader:
-#         print(f"{row[0]} {row[1]} is {row[2]}")
+import csv
+with open('courses.csv', 'r') as myfile:
+    csv_reader = csv.reader(myfile)
+    for row in csv_reader:
+        print(f"{row[0]}\n{row[1]}\n{row[2]}\n")
